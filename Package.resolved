@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PryntTrimmerView",
+        "repositoryURL": "https://github.com/BalazsSzamody/PryntTrimmerView",
+        "state": {
+          "branch": "swift-package",
+          "revision": "557d363ca4bcf9a56daba027f3e9f8a8b03c1568",
+          "version": null
+        }
+      },
+      {
+        "package": "Stevia",
+        "repositoryURL": "https://github.com/BalazsSzamody/Stevia",
+        "state": {
+          "branch": "swift-package",
+          "revision": "95276f1062ab0190f43175cadb2a4d9824bbc0ff",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
